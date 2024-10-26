@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital_Wallet_ConsoleApp", "Digital_Wallet_ConsoleApp\Digital_Wallet_ConsoleApp.csproj", "{D7491EF6-09E1-42D5-9EE3-18F86A3D32E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7491EF6-09E1-42D5-9EE3-18F86A3D32E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7491EF6-09E1-42D5-9EE3-18F86A3D32E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7491EF6-09E1-42D5-9EE3-18F86A3D32E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7491EF6-09E1-42D5-9EE3-18F86A3D32E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A15D2BFC-0F3D-41E9-B64E-1D0E17AEC62F}
+	EndGlobalSection
+EndGlobal
